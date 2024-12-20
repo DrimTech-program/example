@@ -3,7 +3,9 @@
 using namespace std;
 
 int main() {
-    //displaying a message
+    string name;
+    cin >> name;
+    cout << "awa," << name << "!" << endl;
     cout << "qwq!" << endl;
     cout << "Hello World!" << endl;
     return 0;
