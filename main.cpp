@@ -11,8 +11,6 @@ int main() {
     cout << "qwq!" << endl;                // awa
     cout << "Hello World!" << endl;        // ~
     cout << "こんにちは！" << endl;         // ?
-    cout << "qwq!" << endl;                // awa
-    cout << "Hello World!" << endl;        // ~
-    cout << "こんにちは！" << endl;         // ?
+    cout << "안녕하세요." << endl;         //  ?
     return 0;
 }
