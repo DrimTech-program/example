@@ -6,7 +6,8 @@ int main() {
     string name;
     cin >> name;
     cout << "awa," << name << "!" << endl;
-    cout << "qwq!" << endl;
-    cout << "Hello World!" << endl;
+    cout << "qwq!" << endl;                // awa
+    cout << "Hello World!" << endl;        // ~
+    cout << "こんにちは！" << endl;         // ?
     return 0;
 }
